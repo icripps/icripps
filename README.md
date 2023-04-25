@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icripps
 - 👀 I’m interested in building web apps for now
-- 🌱 I’m currently learning nextjs 13
+- 🌱 I’m currently wallowing in AI and Web3
 - 💞️ I’m looking to collaborate on any projects that involves reactjs
 - 📫 How to reach me : ikedacrippso@hotmail.com
 
